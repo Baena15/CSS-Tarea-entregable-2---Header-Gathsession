@@ -8,7 +8,7 @@ Este proyecto consiste en la maquetación de un header-hero estático basado en 
 
 ## 🚀 Demo
 
-Puedes ver el proyecto en vivo aquí: [Enlace a GitHub Pages]
+Puedes ver el proyecto en vivo aquí: [https://baena15.github.io/CSS-Tarea-entregable-2---Header-Gathsession/]
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -63,7 +63,7 @@ dist/
 
 1. Clona el repositorio:
 ```bash
-git clone [url-del-repositorio]
+git clone [https://github.com/Baena15/CSS-Tarea-entregable-2---Header-Gathsession.git]
 ```
 
 2. Navega al directorio:
@@ -89,3 +89,4 @@ O simplemente visita el enlace de GitHub Pages.
 ---
 
 **Nota:** Este proyecto fue creado con fines educativos.
+
